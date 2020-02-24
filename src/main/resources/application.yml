@@ -1,0 +1,9 @@
+server:
+    #端口
+    port: 8081
+    tomcat:
+        uri-encoding: UTF-8
+
+spring:
+   application:
+      name: SPRING-ASYNCTASK
